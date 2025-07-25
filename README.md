@@ -1,6 +1,5 @@
 # Exceleron - AI-Powered Excel Analytics & Visualization Platform
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Exceleron+Project+Banner)
 
 **Exceleron** is a full-stack web application designed to transform raw Excel data into beautiful, interactive, and insightful visualizations. Users can upload Excel files, dynamically generate a wide variety of 2D and 3D charts, and receive AI-powered insights to make data-driven decisions effortlessly.
 
@@ -202,4 +201,4 @@ The project is organized as a monorepo with two main directories:
 
 Your Name - [adityadhanraj.dev@gmail.com](mailto:youremail@example.com)
 
-Project Link: [https://github.com/your-username/Excel-Analystics-main](https://github.com/your-username/Excel-Analystics-main)
+Project Link: [https://github.com/adityadhanraj24/Excel-Analystics-main](https://github.com/your-username/Excel-Analystics-main)
